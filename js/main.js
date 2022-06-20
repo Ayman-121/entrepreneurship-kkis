@@ -17,9 +17,6 @@ window.onscroll = function () {
     numbers.style.cssText = "transform: translateY(0px);";
   }
 
-  if (window.scrollY >= memberships.offsetTop - 600) {
-    memberships.style.cssText = "transform: translateY(0px);";
-  }
 
   if (window.scrollY >= numbersSection.offsetTop + 300) {
     if (!started) {
