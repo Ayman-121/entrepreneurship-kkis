@@ -1,7 +1,6 @@
 let footer = document.querySelector(".footer");
 let kkis = document.querySelector("#kkis");
 let numbers = document.querySelector("#kkis #numbers");
-let memberships = document.querySelector("#kkis #memberships"); 1
 
 window.onscroll = function () {
 
