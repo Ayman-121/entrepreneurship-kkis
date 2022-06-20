@@ -26,9 +26,6 @@ window.onscroll = function () {
   }
 };
 
-
-
-
 //
 //
 //
